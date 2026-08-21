@@ -134,9 +134,48 @@ output/
 
 ## Key Findings
 
-The analysis provides insights into movie ratings, revenue, genres, and release years.
+## Key Findings
 
-The highest-rated movie, highest-revenue movie, most common genre, and year with the highest number of movies can be identified from the analysis output.
+### Dataset Overview
+
+* **Total Movies:** 20
+* **Total Columns:** 8
+* **Missing Values:** 0
+* **Duplicate Rows:** 0
+
+### Rating Analysis
+
+* **Highest-Rated Movie:** The Shawshank Redemption
+* **Highest Rating:** 9.3
+* **Highest-Rated Genre:** Crime
+* **Average Rating of Crime Genre:** 9.05
+
+### Genre Analysis
+
+* **Most Common Genre:** Sci-Fi
+* **Number of Sci-Fi Movies:** 4
+
+### Revenue Analysis
+
+* **Highest Revenue Movie:** Avatar
+* **Highest Revenue:** 2923.0
+
+### Director Analysis
+
+* **Director with Most Movies:** Christopher Nolan
+* **Number of Movies:** 3
+
+### Runtime Analysis
+
+* **Average Movie Runtime:** 144.5 minutes
+* **Longest Movie:** Titanic
+* **Longest Runtime:** 195 minutes
+
+### Correlation Analysis
+
+* **Rating and Votes Correlation:** 0.742
+* The positive correlation indicates that higher-rated movies in this dataset tend to receive more votes.
+
 
 ## Conclusion
 
